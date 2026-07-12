@@ -5,7 +5,7 @@ A beautifully designed, premium, and responsive directory showcasing the **100 m
 Perfect for hosting on GitHub Pages, Vercel, or any other static hosting service.
 
 ## ✨ Live Demo & Visual Design
-- **Premium Glassmorphic Design**: Sleek background blur layers with colorful glowing floating gradients, inspired by Apple, Linear, and Vercel.
+- **Premium Minimalistic Design**: Sleek background blur layers with monochrome zinc colors, inspired by Apple, Linear, and Vercel.
 - **Micro-interactions & Animations**: Animated floating category blobs, smooth button scale effects, and hover transitions.
 - **Dual Theme Support**: Native Light and Dark themes with automatic system preference detection and local persistence.
 
@@ -50,7 +50,7 @@ If you want to simulate a real deployment with absolute resource paths:
 
 Deploying this site is simple and free:
 
-1. Create a new repository on your GitHub account (e.g., `100-essential-ai-websites`).
+1. Create a new repository on your GitHub account: `AI-Websites`.
 2. Initialize Git, add files, and commit:
    ```bash
    git init
@@ -59,7 +59,7 @@ Deploying this site is simple and free:
    ```
 3. Push to GitHub:
    ```bash
-   git remote add origin https://github.com/YOUR_USERNAME/100-essential-ai-websites.git
+   git remote add origin https://github.com/shubham-pattewar/AI-Websites.git
    git branch -M main
    git push -u origin main
    ```
@@ -69,7 +69,7 @@ Deploying this site is simple and free:
    - Under **Build and deployment**, select **Deploy from a branch**.
    - Select the `main` branch and the `/ (root)` folder.
    - Click **Save**.
-5. Your directory will be live at `https://YOUR_USERNAME.github.io/100-essential-ai-websites/` within a couple of minutes!
+5. Your directory will be live at `https://shubham-pattewar.github.io/AI-Websites/` within a couple of minutes!
 
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE page/section for details.
